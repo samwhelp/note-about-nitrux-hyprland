@@ -4,8 +4,8 @@
 
 | Link | GitHub |
 | ---- | ------ |
-| [Nitrux Hyprlnad Adjustment](https://samwhelp.github.io/nitrux-hyprlnad-adjustment/) | [GitHub](https://github.com/samwhelp/nitrux-hyprlnad-adjustment) |
-| [Nitrux Hyprlnad 探索筆記](https://samwhelp.github.io/note-about-nitrux-hyprlnad/) | [GitHub](https://github.com/samwhelp/note-about-nitrux-hyprlnad) |
+| [Nitrux Hyprlnad Adjustment](https://samwhelp.github.io/nitrux-hyprland-adjustment/) | [GitHub](https://github.com/samwhelp/nitrux-hyprland-adjustment) |
+| [Nitrux Hyprlnad 探索筆記](https://samwhelp.github.io/note-about-nitrux-hyprland/) | [GitHub](https://github.com/samwhelp/note-about-nitrux-hyprland) |
 | [Nitrux 探索筆記](https://samwhelp.github.io/note-about-nitrux/) | [GitHub](https://github.com/samwhelp/note-about-nitrux) |
 
 
@@ -23,7 +23,7 @@
 
 | 微調腳本 |
 | --- |
-| [Nitrux Hyprlnad Config](https://github.com/samwhelp/nitrux-hyprlnad-adjustment/tree/main/prototype/main/hyprlnad-config/part/Main) |
+| [Nitrux Hyprlnad Config](https://github.com/samwhelp/nitrux-hyprland-adjustment/tree/main/prototype/main/hyprland-config/part/Main) |
 | [Tool Config](https://github.com/samwhelp/nitrux-adjustment/tree/main/prototype/main/tool-config) |
 
 
@@ -33,11 +33,11 @@
 
 | Link | GitHub |
 | ---- | ------ |
-| [Hyprlnad 探索筆記](https://samwhelp.github.io/note-about-hyprlnad/) | [GitHub](https://github.com/samwhelp/note-about-hyprlnad) |
-| [Debian Hyprlnad 探索筆記](https://samwhelp.github.io/note-about-debian-hyprlnad/) | [GitHub](https://github.com/samwhelp/note-about-debian-hyprlnad) |
-| [Ubuntu Hyprlnad 探索筆記](https://samwhelp.github.io/note-about-ubuntu-hyprlnad/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu-hyprlnad) |
-| [Fedora Hyprlnad 探索筆記](https://samwhelp.github.io/note-about-fedora-hyprlnad/) | [GitHub](https://github.com/samwhelp/note-about-fedora-hyprlnad) |
-| [Archlinux Hyprlnad 探索筆記](https://samwhelp.github.io/note-about-archlinux-hyprlnad/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-hyprlnad) |
+| [Hyprlnad 探索筆記](https://samwhelp.github.io/note-about-hyprland/) | [GitHub](https://github.com/samwhelp/note-about-hyprland) |
+| [Debian Hyprlnad 探索筆記](https://samwhelp.github.io/note-about-debian-hyprland/) | [GitHub](https://github.com/samwhelp/note-about-debian-hyprland) |
+| [Ubuntu Hyprlnad 探索筆記](https://samwhelp.github.io/note-about-ubuntu-hyprland/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu-hyprland) |
+| [Fedora Hyprlnad 探索筆記](https://samwhelp.github.io/note-about-fedora-hyprland/) | [GitHub](https://github.com/samwhelp/note-about-fedora-hyprland) |
+| [Archlinux Hyprlnad 探索筆記](https://samwhelp.github.io/note-about-archlinux-hyprland/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-hyprland) |
 
 
 
