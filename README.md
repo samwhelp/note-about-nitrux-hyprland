@@ -24,7 +24,7 @@
 | 微調腳本 |
 | --- |
 | [Nitrux Hyprlnad Config](https://github.com/samwhelp/nitrux-hyprlnad-adjustment/tree/main/prototype/main/hyprlnad-config/part/Main) |
-| [Tool Config](https://github.com/samwhelp/nitrux-adjustment/tree/main/prototype/main/tool-config/part) |
+| [Tool Config](https://github.com/samwhelp/nitrux-adjustment/tree/main/prototype/main/tool-config) |
 
 
 
